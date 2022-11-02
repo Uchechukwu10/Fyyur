@@ -1,4 +1,5 @@
 # Fyyur
+![App screenshot](fyyur-github.png)
 ### About the maintainer
 I am Uchechukwu Nwankwo and I'm a Full Stack developer. I work with ReactJS for building frontend applications as well as Node.js for building backends. My go-to database management system is MongoDB, nevertheless I am also proficient using PostgreSQL.
 
