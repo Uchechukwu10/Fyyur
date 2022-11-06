@@ -8,7 +8,7 @@ I am Uchechukwu Nwankwo and I'm a Full Stack developer. I work with ReactJS for 
 - [**Portfolio**](https://github.com/Uchechukwu10/Personal-Portfolio)
 
 ### About the Project
-Fyyur is a web application built with Python(Flask) and uses PostgreSQL for database management. It is a platform that helps artistes find venues to perform and help venues find performing artistes.
+Fyyur is a web application built with Python(Flask) and PostgreSQL for database management. It is a platform that helps artistes find venues to perform and help venues find performing artistes.
 
 ### Implemented Features
 - Find artistes and venues
